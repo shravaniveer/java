@@ -1,4 +1,4 @@
-public class CreateObjectExample1   
+public class j  
 {    
 void show()    
 {    
